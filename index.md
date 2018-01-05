@@ -85,7 +85,7 @@ Fri, Mar 16 | OpenACC, Day 1 | Guest Lecturer: [@vanzod](https://www.github.com/
 Mon, Mar 19 | OpenACC, Day 2 | Guest Lecturer: [@vanzod](https://www.github.com/vanzod)
 Wed, Mar 21 | Parallel Programming in Python, Day 1 |
 Fri, Mar 23 | Parllel Programming in Python, Day 2 |
-Mon, Mar 26 | Exam Review | Homework 3 Due :unamused:, [slides](http://www.accre.vanderbilt.edu/wp-content/uploads/2017/03/Exam_Review.pdf)
+Mon, Mar 26 | Exam Review | Homework 3 Due :unamused:
 Wed, Mar 28 | Exam | :tired_face:
 Fri, Mar 30 | NVIDIA GPU CUDA Programming, Day 3 |
 Mon, Apr 2 | NVIDIA GPU CUDA Programming, Day 4 | [Read through section 3.2.3](http://docs.nvidia.com/cuda/cuda-c-programming-guide/#axzz3RIOMQW00)
