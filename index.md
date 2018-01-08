@@ -53,10 +53,10 @@ Remember, you can always type ```commands101``` from the ACCRE command line for 
 **Date** | **Topic** | **Other**
 --- | --- | ---
 Mon, Jan 8 | Course Intro, Syllabus, etc. | 
-Wed, Jan 10 | Intro to Unix, Day 1 | Complete sections 1-3 of Software Carpentry Unix Tutorial (see above) and VIM tutorial
-Fri, Jan 12 | Intro to Unix, Day 2 | Complete sections 4-7 of Software Carpentry Unix Tutorial
+Wed, Jan 10 | Intro to Unix, Day 1 | Guest Lecturer: [@old_unix_guy](https://www.github.com/old_unix_guy), Complete sections 1-3 of Software Carpentry Unix Tutorial (see above) and VIM tutorial
+Fri, Jan 12 | Intro to Unix, Day 2 | Guest Lecturer: [@old_unix_guy](https://www.github.com/old_unix_guy), Complete sections 4-7 of Software Carpentry Unix Tutorial
 Mon, Jan 15 | **MLK Day, No Class** | :no_good:
-Wed, Jan 17 | Intro to the ACCRE Cluster |
+Wed, Jan 17 | Intro to the ACCRE Cluster | Guest Lecturer: [@old_unix_guy](https://www.github.com/old_unix_guy)
 Fri, Jan 19 | Using Git and GitHub |
 Mon, Jan 22 | C Programming, Day 1 | Quiz :expressionless: [Start on exercises](https://github.com/sc3260s17/Cprogramming/blob/master/C-Programming-Exercises.pdf)
 Wed, Jan 24 | C Programming, Day 2 | [Continue exercises](https://github.com/sc3260s17/Cprogramming/blob/master/C-Programming-Exercises.pdf)
