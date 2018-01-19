@@ -54,47 +54,47 @@ Remember, you can always type ```commands101``` from the ACCRE command line for 
 --- | --- | ---
 Mon, Jan 8 | Course Intro, Syllabus, etc. | 
 Wed, Jan 10 | Intro to Unix, Day 1 | Guest Lecturer: [@KevinButerbaugh](https://www.github.com/KevinButerbaugh), Complete sections 1-3 of Software Carpentry Unix Tutorial (see above) and VIM tutorial
-Fri, Jan 12 | Intro to Unix, Day 2 | Guest Lecturer: [@KevinButerbaugh](https://www.github.com/KevinButerbaugh), Complete sections 4-7 of Software Carpentry Unix Tutorial
+Fri, Jan 12 | Snow Day |
 Mon, Jan 15 | **MLK Day, No Class** | :no_good:
-Wed, Jan 17 | Intro to the ACCRE Cluster | Guest Lecturer: [@KevinButerbaugh](https://www.github.com/KevinButerbaugh)
-Fri, Jan 19 | Using Git and GitHub |
-Mon, Jan 22 | C Programming, Day 1 | Quiz :expressionless: [Start on exercises](https://github.com/sc3260s17/Cprogramming/blob/master/C-Programming-Exercises.pdf)
-Wed, Jan 24 | C Programming, Day 2 | [Continue exercises](https://github.com/sc3260s17/Cprogramming/blob/master/C-Programming-Exercises.pdf)
-Fri, Jan 26 | C Programming, Day 3 | [Complete exercises](https://github.com/sc3260s17/Cprogramming/blob/master/C-Programming-Exercises.pdf)
-Mon, Jan 29 | Compiling Programs | [Slides](http://www.accre.vanderbilt.edu/wp-content/uploads/2017/01/compiling_programs.pdf)
-Wed, Jan 31 | Intro to Molecular Dynamics Simulations |
-Fri, Feb 2 | Parallel Computing, Day 1 | [Read sections 1-3](https://computing.llnl.gov/tutorials/parallel_comp/)
-Mon, Feb 5 | Parallel Computing, Day 2 | [Read sections 4-7](https://computing.llnl.gov/tutorials/parallel_comp/)
-Wed, Feb 7 | Parallel Computing, Day 3 | Homework 1 Due :unamused:
-Fri, Feb 9 | Vectorization | [Reference 1](http://www.insideloop.io/blog/2014/10/14/arrays-part-iii-vectorization/), [Reference 2](https://d3f8ykwhia686p.cloudfront.net/1live/intel/CompilerAutovectorizationGuide.pdf), [Exercises](https://github.com/sc3260s17/vectorization)
-Mon, Feb 12 | Multithreaded, Shared Memory Programming, Day 1 | [Read sections 1-4](https://computing.llnl.gov/tutorials/openMP/)
-Wed, Feb 14 | Multithreaded, Shared Memory Programming, Day 2 | [Read sections 5-8](https://computing.llnl.gov/tutorials/openMP/)
-Fri, Feb 16 | Multithreaded, Shared Memory Programming, Day 3 |
-Mon, Feb 19 | Multithreaded, Shared Memory Programming, Day 4 | [Read sections 1-4](https://computing.llnl.gov/tutorials/pthreads/)
-Wed, Feb 21 | Multithreaded, Shared Memory Programming, Day 5 | [Read sections 5-8](https://computing.llnl.gov/tutorials/pthreads/)
-Fri, Feb 23 | MPI, Distributed Memory Programming, Day 1 | [Read sections 1-3](https://computing.llnl.gov/tutorials/mpi/)
-Mon, Feb 26 | MPI, Distributed Memory Programming, Day 2 |
-Wed, Feb 28 | MPI, Distributed Memory Programming, Day 3 | [Read sections 4-7](https://computing.llnl.gov/tutorials/mpi/), [slides](http://www.accre.vanderbilt.edu/wp-content/uploads/2014/12/mpi_02.pdf)
-Fri, Mar 2 | MPI, Distributed Memory Programming, Day 4 | Homework 2 Due :unamused: [Read sections 8-11](https://computing.llnl.gov/tutorials/mpi/), [slides](http://www.accre.vanderbilt.edu/wp-content/uploads/2014/12/mpi_03.pdf)
+Wed, Jan 17 | Intro to Unix, Day 2 | Guest Lecturer: [@KevinButerbaugh](https://www.github.com/KevinButerbaugh), Complete sections 4-7 of Software Carpentry Unix Tutorial
+Fri, Jan 19 | Intro to the ACCRE Cluster | Guest Lecturer: [@KevinButerbaugh](https://www.github.com/KevinButerbaugh)
+Mon, Jan 22 | Using Git and GitHub |
+Wed, Jan 24 | C Programming, Day 1 | Quiz :expressionless: [Start on exercises](https://github.com/sc3260s17/Cprogramming/blob/master/C-Programming-Exercises.pdf)
+Fri, Jan 26 | C Programming, Day 2 | [Continue exercises](https://github.com/sc3260s17/Cprogramming/blob/master/C-Programming-Exercises.pdf)
+Mon, Jan 29 | C Programming, Day 3 | [Complete exercises](https://github.com/sc3260s17/Cprogramming/blob/master/C-Programming-Exercises.pdf)
+Wed, Jan 31 | Compiling Programs | [Slides](http://www.accre.vanderbilt.edu/wp-content/uploads/2017/01/compiling_programs.pdf)
+Fri, Feb 2 | Intro to Molecular Dynamics Simulations |
+Mon, Feb 5 | Parallel Computing, Day 1 | [Read sections 1-3](https://computing.llnl.gov/tutorials/parallel_comp/)
+Wed, Feb 7 | Parallel Computing, Day 2 | [Read sections 4-7](https://computing.llnl.gov/tutorials/parallel_comp/)
+Fri, Feb 9 | Parallel Computing, Day 3 | Homework 1 Due :unamused:
+Mon, Feb 12 | Vectorization | [Reference 1](http://www.insideloop.io/blog/2014/10/14/arrays-part-iii-vectorization/), [Reference 2](https://d3f8ykwhia686p.cloudfront.net/1live/intel/CompilerAutovectorizationGuide.pdf), [Exercises](https://github.com/sc3260s17/vectorization)
+Wed, Feb 14 | Multithreaded, Shared Memory Programming, Day 1 | [Read sections 1-4](https://computing.llnl.gov/tutorials/openMP/)
+Fri, Feb 16 | Multithreaded, Shared Memory Programming, Day 2 | [Read sections 5-8](https://computing.llnl.gov/tutorials/openMP/)
+Mon, Feb 19 | Multithreaded, Shared Memory Programming, Day 3 |
+Wed, Feb 21 | Multithreaded, Shared Memory Programming, Day 4 | [Read sections 1-4](https://computing.llnl.gov/tutorials/pthreads/)
+Fri, Feb 23 | Multithreaded, Shared Memory Programming, Day 5 | [Read sections 5-8](https://computing.llnl.gov/tutorials/pthreads/)
+Mon, Feb 26 | MPI, Distributed Memory Programming, Day 1 | [Read sections 1-3](https://computing.llnl.gov/tutorials/mpi/)
+Wed, Feb 28 | MPI, Distributed Memory Programming, Day 2 |
+Fri, Mar 2 | MPI, Distributed Memory Programming, Day 3 | [Read sections 4-7](https://computing.llnl.gov/tutorials/mpi/), [slides](http://www.accre.vanderbilt.edu/wp-content/uploads/2014/12/mpi_02.pdf)
 Mon, Mar 5 | **Spring Break, No Class**  | :no_good:
 Wed, Mar 7 | **Spring Break, No Class** | :no_good:
 Fri, Mar 9 | **Spring Break, No Class** | :no_good:
-Mon, Mar 12 | NVIDIA GPU CUDA Programming, Day 1 | [Read section 1](http://docs.nvidia.com/cuda/cuda-c-programming-guide/#axzz3RIOMQW00)
-Wed, Mar 14 | NVIDIA GPU CUDA Programming, Day 2 | [Read section 2](http://docs.nvidia.com/cuda/cuda-c-programming-guide/#axzz3RIOMQW00)
-Fri, Mar 16 | OpenACC, Day 1 | Guest Lecturer: [@vanzod](https://www.github.com/vanzod)
-Mon, Mar 19 | OpenACC, Day 2 | Guest Lecturer: [@vanzod](https://www.github.com/vanzod)
-Wed, Mar 21 | Parallel Programming in Python, Day 1 |
-Fri, Mar 23 | Parllel Programming in Python, Day 2 |
-Mon, Mar 26 | Exam Review | Homework 3 Due :unamused:
-Wed, Mar 28 | Exam | :tired_face:
-Fri, Mar 30 | NVIDIA GPU CUDA Programming, Day 3 |
-Mon, Apr 2 | NVIDIA GPU CUDA Programming, Day 4 | [Read through section 3.2.3](http://docs.nvidia.com/cuda/cuda-c-programming-guide/#axzz3RIOMQW00)
-Wed, Apr 4 | NVIDIA GPU CUDA Programming, Day 5 |
-Fri, Apr 6 | Work on Capstone |
+Mon, Mar 12 | MPI, Distributed Memory Programming, Day 4 | Homework 2 Due :unamused: [Read sections 8-11](https://computing.llnl.gov/tutorials/mpi/), [slides](http://www.accre.vanderbilt.edu/wp-content/uploads/2014/12/mpi_03.pdf)
+Wed, Mar 14 | NVIDIA GPU CUDA Programming, Day 1 | [Read section 1](http://docs.nvidia.com/cuda/cuda-c-programming-guide/#axzz3RIOMQW00)
+Fri, Mar 16 | NVIDIA GPU CUDA Programming, Day 2 | [Read section 2](http://docs.nvidia.com/cuda/cuda-c-programming-guide/#axzz3RIOMQW00)
+Mon, Mar 19 | OpenACC, Day 1 | Guest Lecturer: [@vanzod](https://www.github.com/vanzod)
+Wed, Mar 21 | OpenACC, Day 2 | Guest Lecturer: [@vanzod](https://www.github.com/vanzod)
+Fri, Mar 23 | Parallel Programming in Python, Day 1 |
+Mon, Mar 26 | Parllel Programming in Python, Day 2 |
+Wed, Mar 28 | Exam Review | Homework 3 Due :unamused:
+Fri, Mar 30 | Exam | :tired_face:
+Mon, Apr 2 | NVIDIA GPU CUDA Programming, Day 3 |
+Wed, Apr 4 | NVIDIA GPU CUDA Programming, Day 4 | [Read through section 3.2.3](http://docs.nvidia.com/cuda/cuda-c-programming-guide/#axzz3RIOMQW00)
+Fri, Apr 6 | NVIDIA GPU CUDA Programming, Day 5 |
 Mon, Apr 9 | Work on Capstone |
 Wed, Apr 11 | Work on Capstone |
 Fri, Apr 13 | Work on Capstone |
-Mon, Apr 16 | Capstone Presentations |
+Mon, Apr 16 | Work on Capstone |
 Wed, Apr 18 | Capstone Presentations |
 Fri, Apr 20 | Capstone Presentations |
-Mon, Apr 23 | No Class |
+Mon, Apr 23 | Capstone Presentations |
