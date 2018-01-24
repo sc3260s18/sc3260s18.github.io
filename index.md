@@ -59,9 +59,9 @@ Mon, Jan 15 | **MLK Day, No Class** | :no_good:
 Wed, Jan 17 | Intro to Unix, Day 2 | Guest Lecturer: [@KevinButerbaugh](https://www.github.com/KevinButerbaugh), Complete sections 4-7 of Software Carpentry Unix Tutorial
 Fri, Jan 19 | Intro to the ACCRE Cluster | Guest Lecturer: [@KevinButerbaugh](https://www.github.com/KevinButerbaugh)
 Mon, Jan 22 | Using Git and GitHub |
-Wed, Jan 24 | C Programming, Day 1 | Quiz :expressionless: [Start on exercises](https://github.com/sc3260s17/Cprogramming/blob/master/C-Programming-Exercises.pdf)
-Fri, Jan 26 | C Programming, Day 2 | [Continue exercises](https://github.com/sc3260s17/Cprogramming/blob/master/C-Programming-Exercises.pdf)
-Mon, Jan 29 | C Programming, Day 3 | [Complete exercises](https://github.com/sc3260s17/Cprogramming/blob/master/C-Programming-Exercises.pdf)
+Wed, Jan 24 | C Programming, Day 1 | Quiz :expressionless: [Start on exercises](https://github.com/sc3260s18/Cprogramming/blob/master/C-Programming-Exercises.pdf)
+Fri, Jan 26 | C Programming, Day 2 | [Continue exercises](https://github.com/sc3260s18/Cprogramming/blob/master/C-Programming-Exercises.pdf)
+Mon, Jan 29 | C Programming, Day 3 | [Complete exercises](https://github.com/sc3260s18/Cprogramming/blob/master/C-Programming-Exercises.pdf)
 Wed, Jan 31 | Compiling Programs | [Slides](http://www.accre.vanderbilt.edu/wp-content/uploads/2017/01/compiling_programs.pdf)
 Fri, Feb 2 | Intro to Molecular Dynamics Simulations |
 Mon, Feb 5 | Parallel Computing, Day 1 | [Read sections 1-3](https://computing.llnl.gov/tutorials/parallel_comp/)
