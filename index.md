@@ -84,13 +84,13 @@ Wed, Mar 14 | NVIDIA GPU CUDA Programming, Day 1 |  Homework 2 Due :unamused: [R
 Fri, Mar 16 | NVIDIA GPU CUDA Programming, Day 2 | [Read section 2](http://docs.nvidia.com/cuda/cuda-c-programming-guide/#axzz3RIOMQW00)
 Mon, Mar 19 | OpenACC, Day 1 | Guest Lecturer: [@vanzod](https://www.github.com/vanzod)
 Wed, Mar 21 | OpenACC, Day 2 | Guest Lecturer: [@vanzod](https://www.github.com/vanzod)
-Fri, Mar 23 | Parallel Programming in Python, Day 1 |
-Mon, Mar 26 | Parllel Programming in Python, Day 2 |
-Wed, Mar 28 | Exam Review | Homework 3 Due :unamused:
-Fri, Mar 30 | Exam | :tired_face:
-Mon, Apr 2 | NVIDIA GPU CUDA Programming, Day 3 |
-Wed, Apr 4 | NVIDIA GPU CUDA Programming, Day 4 | [Read through section 3.2.3](http://docs.nvidia.com/cuda/cuda-c-programming-guide/#axzz3RIOMQW00)
-Fri, Apr 6 | NVIDIA GPU CUDA Programming, Day 5 |
+Fri, Mar 23 | Parallel Programming in Python, Day 1 | Guest Lecturer: [@appeltel](https://www.github.com/appeltel)
+Mon, Mar 26 | Parllel Programming in Python, Day 2 | Guest Lecturer: [@appeltel](https://www.github.com/appeltel)
+Wed, Mar 28 | NVIDIA GPU CUDA Programming, Day 3 |
+Fri, Mar 30 | NVIDIA GPU CUDA Programming, Day 4 | [Read through section 3.2.3](http://docs.nvidia.com/cuda/cuda-c-programming-guide/#axzz3RIOMQW00)
+Mon, Apr 2 | NVIDIA GPU CUDA Programming, Day 5 |
+Wed, Apr 4 | Exam Review | Homework 3 Due :unamused:
+Fri, Apr 6 | Exam | :tired_face:
 Mon, Apr 9 | Work on Capstone |
 Wed, Apr 11 | Work on Capstone |
 Fri, Apr 13 | Work on Capstone |
