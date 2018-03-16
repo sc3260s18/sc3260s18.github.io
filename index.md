@@ -80,7 +80,7 @@ Mon, Mar 5 | **Spring Break, No Class**  | :no_good:
 Wed, Mar 7 | **Spring Break, No Class** | :no_good:
 Fri, Mar 9 | **Spring Break, No Class** | :no_good:
 Mon, Mar 12 | MPI, Distributed Memory Programming, Day 4 | [Read sections 8-11](https://computing.llnl.gov/tutorials/mpi/), [slides](http://www.accre.vanderbilt.edu/wp-content/uploads/2014/12/mpi_03.pdf)
-Wed, Mar 14 | NVIDIA GPU CUDA Programming, Day 1 |  Homework 2 Due :unamused: [Read section 1](http://docs.nvidia.com/cuda/cuda-c-programming-guide/#axzz3RIOMQW00)
+Wed, Mar 14 | NVIDIA GPU CUDA Programming, Day 1 |  Homework 2 Due :unamused: [Read section 1](http://docs.nvidia.com/cuda/cuda-c-programming-guide/#axzz3RIOMQW00), [slides](http://www.accre.vanderbilt.edu/wp-content/uploads/2018/03/Intro_to_GPU.pdf)
 Fri, Mar 16 | NVIDIA GPU CUDA Programming, Day 2 | [Read section 2](http://docs.nvidia.com/cuda/cuda-c-programming-guide/#axzz3RIOMQW00)
 Mon, Mar 19 | OpenACC, Day 1 | Guest Lecturer: [@vanzod](https://www.github.com/vanzod)
 Wed, Mar 21 | OpenACC, Day 2 | Guest Lecturer: [@vanzod](https://www.github.com/vanzod)
